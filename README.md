@@ -103,3 +103,26 @@ jupyter notebook
 
 Open the notebook and execute cells sequentially.
 
+Skills Demonstrated
+
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Time-Series Analysis
+
+Forecasting Techniques
+
+Data Visualization
+
+Business & Operational Insights
+
+Python for Analytics
+
+👩‍💻 Author
+
+Ankita Joshi
+Data Analyst | Pharma & Clinical Research Background
+Aspiring Data Analyst / Clinical SAS Programmer
+
+GitHub: https://github.com/Ankita-joshi123
