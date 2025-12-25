@@ -109,20 +109,18 @@ Data Cleaning & Preprocessing
 
 Exploratory Data Analysis (EDA)
 
-Time-Series Analysis
-
-Forecasting Techniques
+Trend & Growth Analysis
 
 Data Visualization
 
-Business & Operational Insights
+Business & Market Insights
 
-Python for Analytics
+Python for Data Analysis
 
 👩‍💻 Author
 
 Ankita Joshi
-Data Analyst | Pharma & Clinical Research Background
+Data Analyst | Clinical & Healthcare Data Background
 Aspiring Data Analyst / Clinical SAS Programmer
 
 GitHub: https://github.com/Ankita-joshi123
